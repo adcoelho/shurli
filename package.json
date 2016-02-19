@@ -1,0 +1,22 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "A URL shortener microservice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adcoelho/shurli.git"
+  },
+  "author": "Antonio Coelho <antoniodcoelho@gmail.com> (https://github.com/adcoelho)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adcoelho/shurli/issues"
+  },
+  "homepage": "https://github.com/adcoelho/shurli#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
